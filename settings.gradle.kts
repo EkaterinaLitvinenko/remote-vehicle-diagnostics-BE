@@ -4,5 +4,6 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
+
 rootProject.name = "vdv-be"
 include("shared")

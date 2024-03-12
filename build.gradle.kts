@@ -28,6 +28,8 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-web")
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
     runtimeOnly("org.springframework.boot:spring-boot-devtools")
+
+    implementation(project(":shared"))
 }
 
 tasks.withType<KotlinCompile> {
