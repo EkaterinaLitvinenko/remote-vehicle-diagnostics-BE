@@ -1,7 +1,7 @@
-package sk.fiit.vdv.repositories
+package sk.fiit.vdv.be.repositories
 
 import org.springframework.data.jpa.repository.JpaRepository
-import sk.fiit.vdv.entities.Vehicle
+import sk.fiit.vdv.be.entities.Vehicle
 import java.util.UUID
 
 interface VehiclesRepository: JpaRepository<Vehicle, UUID> {

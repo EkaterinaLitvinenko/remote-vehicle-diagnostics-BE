@@ -1,4 +1,4 @@
-package sk.fiit.vdv.entities
+package sk.fiit.vdv.be.entities
 
 import jakarta.persistence.Column
 import jakarta.persistence.Entity

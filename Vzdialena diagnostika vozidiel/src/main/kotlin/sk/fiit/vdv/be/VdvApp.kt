@@ -1,4 +1,4 @@
-package sk.fiit.vdv
+package sk.fiit.vdv.be
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
