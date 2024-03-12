@@ -1,0 +1,3 @@
+[submodule "shared"]
+	path = shared
+	url = git@github.com:EkaterinaLitvinenko/remote-vehicle-diagnostics-Shared.git
